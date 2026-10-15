@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "fulltoc",
+  "versions": [
+    {
+      "commit": "8c09d8225e98cf8543d60c60b6c36e4b7b8b1d56",
+      "tag": "1.3",
+      "parsed_at": "2026-10-15T10:13:27.182995+00:00"
+    }
+  ]
+}
