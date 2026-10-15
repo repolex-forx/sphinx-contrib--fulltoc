@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/fulltoc/commit/8c09d8225e98cf8543d60c60b6c36e4b7b8b1d56",
       "git:hexsha": "8c09d8225e98cf8543d60c60b6c36e4b7b8b1d56",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.3"
     },
     {
